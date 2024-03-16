@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtkKursServis", "BtkKursServis\BtkKursServis.csproj", "{696F99D3-EE5B-4DF2-A6B5-85A71A567B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696F99D3-EE5B-4DF2-A6B5-85A71A567B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696F99D3-EE5B-4DF2-A6B5-85A71A567B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696F99D3-EE5B-4DF2-A6B5-85A71A567B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696F99D3-EE5B-4DF2-A6B5-85A71A567B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69C6ECD-A517-4647-9DA4-80320EFE5571}
+	EndGlobalSection
+EndGlobal
